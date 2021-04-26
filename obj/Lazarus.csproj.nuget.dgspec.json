@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/usr/Desktop/Lazarus/Lazarus.csproj": {}
+  },
+  "projects": {
+    "/home/usr/Desktop/Lazarus/Lazarus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/usr/Desktop/Lazarus/Lazarus.csproj",
+        "projectName": "Lazarus",
+        "projectPath": "/home/usr/Desktop/Lazarus/Lazarus.csproj",
+        "packagesPath": "/home/usr/.nuget/packages/",
+        "outputPath": "/home/usr/Desktop/Lazarus/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/usr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
